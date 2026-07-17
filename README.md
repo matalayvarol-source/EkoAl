@@ -5,7 +5,7 @@
 Geçen yıl bir araştırma yaparken 2022 yazında Avrupa'da 
 61.000'den fazla insanın sıcak hava dalgası yüzünden 
 hayatını kaybettiğini öğrendim. İlk okuduğumda yanlış 
-anladım sandım — ama gerçekti. Üstelik 2003'te de 70.000 
+anladım sandım ama gerçekti. Üstelik 2003'te de 70.000 
 kişi aynı şekilde ölmüştü. Yani bu tek seferlik değil, 
 her yaz tekrarlanan ve büyüyen bir kriz.
 
@@ -24,7 +24,7 @@ Ne Yapıyor?
  Isı Riski Haritası
 Mapbox altyapısıyla çalışan interaktif harita. 
 Bulunduğun bölgenin ısı riski skorunu renk skalasıyla 
-gösteriyor — kırmızı yüksek risk, yeşil düşük risk.
+gösteriyor kırmızı yüksek risk, yeşil düşük risk.
 
  Isı Hafızası
 Benim en çok önem verdiğim özellik. 2010'dan bugüne 
