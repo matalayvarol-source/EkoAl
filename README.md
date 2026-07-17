@@ -1,4 +1,4 @@
-# 🌍 EkoAl — Kentsel Isı Adası ve Atık Yönetimi Uygulaması
+#  EkoAl — Kentsel Isı Adası ve Atık Yönetimi Uygulaması
 
 ## Neden EkoAl?
 
